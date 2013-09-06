@@ -1,0 +1,21 @@
+{
+  "name": "nodeball",
+  "version": "0.0.0",
+  "description": "What? A packaged node application as a binary? I can still edit the source? You're a wizard Harry!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/supershabam/nodeball"
+  },
+  "keywords": [
+    "magic"
+  ],
+  "author": "Ian Hansen (http://supershabam.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/supershabam/nodeball/issues"
+  }
+}
